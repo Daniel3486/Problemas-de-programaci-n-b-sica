@@ -83,7 +83,7 @@ Calcula la suma de los impares.
 
 41.js- Un programa que nos permite dar altas en el archivo DATOS.DAT, cuyos campos son: ID, NOMBRE, APELLIDOS, DIRECCIÓN y ESTADO.
 
-42.js- Un programa que nos permita dar bajas en el fichero DATOS.DAT.
+42.js- Un programa que nos permite dar bajas en el fichero DATOS.DAT.
 
 43.js- Dado el archivo DATOS.DAT, un programa que nos permite realizar modificaciones cuantas veces deseemos, incluyendo: insertar, eliminar y modificar registros.
 
